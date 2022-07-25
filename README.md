@@ -8,7 +8,7 @@
 
 ![name](https://img.shields.io/badge/Kaushal--Mehta-MCA--last--year-lightgrey)
 
-## Project 7 [Live Link](#)
+## Project 7 [Live Link](https://live-proj-7.netlify.app)
 
 -   Skills Gained in this project
     -   Learned how we can use position **Relative** & **Absolute** in combination so that items can be stacked on top of each other
